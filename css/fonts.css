@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'audimat_monosmallcapslight';
+    src: url('../fonts/audimscl-webfont.eot');
+    src: url('../fonts/audimscl-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/audimscl-webfont.woff') format('woff'),
+         url('../fonts/audimscl-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
